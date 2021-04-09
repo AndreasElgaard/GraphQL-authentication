@@ -1,2 +1,7 @@
 # GraphQL-authentication
-Hotel Booking System API using GraphQL. 
+
+This is an implementations of a hotel booking system using GraphQL. 
+
+It is using a mongoDB database and authentication using JSONWebtokens. 
+
+
